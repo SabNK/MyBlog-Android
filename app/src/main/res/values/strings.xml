@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MyBlog</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_your_password">Forgot Your Password?</string>
+    <string name="privacy_policy">Privacy and Policy</string>
+    <string name="create_account">No Account yet? Create one</string>
+    <string name="username">username</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="accept_policy">I accept terms and conditions</string>
+    <string name="sign_up">CREATE ACCOUNT</string>
+    <string name="terms_conditions">Terms and Conditions</string>
 </resources>
