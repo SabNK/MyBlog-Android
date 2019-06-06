@@ -12,4 +12,22 @@
     <string name="accept_policy">I accept terms and conditions</string>
     <string name="sign_up">CREATE ACCOUNT</string>
     <string name="terms_conditions">Terms and Conditions</string>
+    <string name="email_empty">Email can not be empty</string>
+    <string name="name_empty">Name can not be empty</string>
+    <string name="name_too_short">Name is too short. Less than 4</string>
+    <string name="OK">OK</string>
+    <string name="password_empty">Password can not be empty</string>
+    <string name="confirm_password_empty">Confirm Password can not be empty</string>
+    <string name="confirm_password_mismatch">Confirm Password mismatch Password</string>
+
+    <string name="password_length_8">Password must be not less than 8 char</string>
+
+
+    <string name="must_accept_terms_conditions">You must accept the terms and conditions</string>
+    <string name="account_created">You have successfully created a account \n You can login now</string>
+    <string name="error_account_created">Error created a account \n You can login now</string>
+    <string name="error_400">The request could not be understood by the server due to malformed syntax</string>
+    <string name="error_403">The server understood the request, but is refusing to fulfill it</string>
+    <string name="error_404">The server has not found anything matching the Request-URI</string>
+    <string name="error_general">Unknown error</string>
 </resources>
